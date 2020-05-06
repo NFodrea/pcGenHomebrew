@@ -1,0 +1,33 @@
+#General info
+CAMPAIGN:Arelia Chronicles
+GAMEMODE:Pathfinder
+GENRE:Fantasy
+RANK: 8
+TYPE:Jacob Clark
+STATUS:BETA
+BOOKTYPE:Homebrew
+SETTING:Pathfinder
+
+# Publisher and Sources
+PUBNAMELONG:Jacob Clark
+PUBNAMESHORT:JC
+SOURCELONG:Arelia Chronicles
+SOURCESHORT:AC
+SOURCEWEB:HTTP://www.rpgpublisher.com/
+SOURCEDATE:2020-05
+ISOGL:YES
+COPYRIGHT:Jacob Clark Copyright 2020
+INFOTEXT:This data set contains all the information for the Arelia Chronicles
+PRECAMPAIGN:1,INCLUDES=Core Rulebook
+
+
+# armor
+# city standing
+# respect
+# noteirity
+# bad faith
+# favor
+
+#imports
+ABILITYCATEGORY:ac_abilitycategories.lst
+ABILITY:ac_injuries.lst

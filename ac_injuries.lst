@@ -1,0 +1,1 @@
+Injured Leg	CATEGORY:Injuries	KEY:Injuries ~ Injured Leg	TYPE:Special	VISIBLE:YES	DESC: -1 to initiative	BONUS:COMBAT|INITIATIVE|-1|TYPE=Trait	BENEFIT:You have an injured leg and suffer -1 to your initiative
