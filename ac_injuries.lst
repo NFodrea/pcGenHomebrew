@@ -1,2 +1,1 @@
-Injured Leg	CATEGORY:Injuries	SORTKEY:1	KEY:Injuries ~ Injured Leg	TYPE:Injuries	VISIBLE:YES	DESC:-1 to initiative	SA:Injured Leg	BONUS:COMBAT|INITIATIVE|-1|TYPE=Special	COST:1	ABILITY:Special Ability
-
+Injured Leg	CATEGORY:Injuries	SORTKEY:1	KEY:Injuries ~ Injured Leg	TYPE:Injuries	VISIBLE:YES	DESC:-1 to initiative	SAB:Injured Leg	BONUS:COMBAT|INITIATIVE|-1|TYPE=Special	COST:1	ABILITY:Special Ability
