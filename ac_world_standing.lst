@@ -1,1 +1,1 @@
-Woo Woo Woo CATEGORY:World Standing	SORTKEY:2	KEY:World Standing ~ wooo	TYPE:World Standing	VISIBLE:YES	DESC:-1 to initiative	SA:Woo	BONUS:COMBAT|INITIATIVE|-1|TYPE=Special	COST:1	ABILITY:Special Ability
+Additional Favor	CATEGORY:World Standing	SORTKEY:1	KEY:World Standing ~ Injured Leg	TYPE:Injuries	VISIBLE:YES	DESC:-1 to initiative	SAB:Injured Leg	BONUS:COMBAT|INITIATIVE|-1|TYPE=Special	COST:1

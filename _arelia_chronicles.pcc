@@ -20,14 +20,6 @@ COPYRIGHT:Jacob Clark Copyright 2020
 INFOTEXT:This data set contains all the information for the Arelia Chronicles
 PRECAMPAIGN:1,INCLUDES=Core Rulebook
 
-
-# armor
-# city standing
-# respect
-# noteirity
-# bad faith
-# favor
-
 #imports
 ABILITYCATEGORY:ac_abilitycategories.lst
 ABILITY:ac_injuries.lst
